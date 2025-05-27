@@ -56,7 +56,7 @@ with tab4:
     with col2:
         st.image("ProgE.jpg", caption="Programadores ❣")
 
-    st.write("Ver clases contigo ha sido, sin duda, ha sido una de las experiencias más hermosas en nuestro paso por la universidad. No solo compartimos apuntes y proyectos, sino también miradas, risas y momentos que se quedan grabados para siempre. Estar a tu lado incluso en lo cotidiano, como una simple clase, convierte cada día en algo especial. No imagino una mejor manera de vivir esta etapa que contigo a mi lado.")
+    st.write("Ver clases contigo ha sido, sin duda, una de las experiencias más hermosas en nuestro paso por la universidad. No solo compartimos apuntes y proyectos, sino también miradas, risas y momentos que se quedan grabados para siempre. Estar a tu lado incluso en lo cotidiano, como una simple clase, convierte cada día en algo especial. No imagino una mejor manera de vivir esta etapa que contigo a mi lado.")
 
 with tab5:
     col1, col2 = st.columns(2)
